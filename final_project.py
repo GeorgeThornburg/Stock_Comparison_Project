@@ -5,7 +5,7 @@ import csv
 from tqdm import trange
 import yfinance as yf
 import pandas as pd
-
+#George
 stocks = ['WMB', 'BAC', 'ABC', 'MSFT', 'ACR', 'AKR', 'ZION', 'AXP', 'AMP', 'ZBRA', 'EGHT', 'AGR', 'AMZN',
           'TSLA', 'UNH', 'JNJ', 'NVDA', 'V', 'A', 'HD', 'PFE', 'AA', 'AAC', 'AACG', 'AACI', 'AADI', 'AAIC',
           'AAL', 'AAMC', 'AAME', 'AAN', 'AAOI', 'AAON', 'AAP', 'AAPL', 'AAQC','AAT', 'AATC', 'AAU', 'AAWW',
